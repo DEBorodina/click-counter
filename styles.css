@@ -11,7 +11,7 @@ body {
   margin-top: 60px;
   height: 500px;
   width: 25%;
-  min-width: 350px;
+  min-width: 320px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;

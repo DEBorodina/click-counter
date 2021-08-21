@@ -1,4 +1,4 @@
-# click-counter
+# Click-counter
 
 ### DESCRIPTION
 

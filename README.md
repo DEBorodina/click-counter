@@ -1,19 +1,19 @@
 # click-counter
 
-### description
+### DESCRIPTION
 
 Simple counter 
 
-### technologies
+### TECHNOLOGIES
 
 - JavaScript
 - HTML
 - CSS
 
-### demo
+### DEMO
 
 [Watch](https://deborodina.github.io/click-counter/)
 
-### design
+### DESIGN
 
 Neumorphism
